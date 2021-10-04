@@ -2,6 +2,21 @@
 	"version": "2",
 	"templates": [{
 			"type": 1,
+			"title": "MailHog",
+			"description": "Web and API based SMTP testing",
+			"categories": [
+				"webserver"
+			],
+			"platform": "linux",
+			"logo": "https://avatars.githubusercontent.com/u/10258541?s=200&v=4",
+			"image": "mailhog/mailhog:latest",
+			"ports": [
+				"1025/tcp",
+				"8025/tcp"
+			]
+		},
+		{
+			"type": 1,
 			"title": "Registry",
 			"description": "Docker image registry",
 			"categories": [
