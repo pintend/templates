@@ -24,7 +24,7 @@
                 "database"
             ],
             "platform": "linux",
-            "logo": "https://www.singlestore.com/images/components/navbar/logo_main.svg",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SingleStore_logo.png",
             "image": "memsql/cluster-in-a-box",
             "env": [
                 {
