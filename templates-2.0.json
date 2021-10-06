@@ -19,7 +19,7 @@
         {
             "type": 1,
             "title": "SingleStore",
-            "description": "The most popular open-source database",
+            "description": "The Single Database for All Data-Intensive Applications",
             "categories": [
                 "database"
             ],
