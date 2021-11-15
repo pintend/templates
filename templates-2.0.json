@@ -318,7 +318,7 @@
         },
         {
             "type": 1,
-            "title": "Minio",
+            "title": "Minio s3",
             "description": "A distributed object storage server built for cloud applications and devops",
             "categories": [
                 "storage"
